@@ -1,2 +1,6 @@
-# first-git
-educational project for teaching git technology
+# Это тестовый проект
+
+Текст справки
+
+- Элемент списка
+- Элемент списка
